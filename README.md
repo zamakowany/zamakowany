@@ -5,7 +5,7 @@ I'm a passionate **full-stack web developer** programming as a hobby and explori
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript  
 - **Front-End:** React (with Vite), CSS (sometimes Tailwind)  
-- **Back-End:** Node.js, PostgreSQL (via PocketBase)  
+- **Back-End:** Node.js, PocketBase
 - **Tools:** Vite, Docker, Figma  
 
 I'm constantly experimenting with new tools and frameworks to expand my skill set.  
