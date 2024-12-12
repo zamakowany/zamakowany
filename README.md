@@ -20,6 +20,4 @@ While coding is my playground, I'm on a journey to sharpen my skills in **cybers
 
 Feel free to reach out if you have ideas for collaboration, want to discuss tech, or just say hi! 😊  
 
----
-
-_“Technology is best when it brings people together.” – Matt Mullenweg_  
+---  
