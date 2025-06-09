@@ -4,9 +4,9 @@ I'm a passionate **full-stack web developer** programming as a hobby and explori
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript  
-- **Front-End:** React (with Vite), CSS (sometimes Tailwind)  
-- **Back-End:** Node.js, PocketBase
-- **Tools:** Vite, Docker, Figma  
+- **Front-End:** React (with Vite), Tailwind
+- **Back-End:** ElysiaJs, SQLite/PocketBase
+- **Tools:** Vite, Figma, Vs Code/NeoVim
 
 I'm constantly experimenting with new tools and frameworks to expand my skill set.  
 
@@ -18,6 +18,6 @@ While coding is my playground, I'm on a journey to sharpen my skills in **cybers
 - Discord: [zamakowany](https://discord.com/users/781591050418388993)
 - Email: [kontakt@zamakowany.pl](mailto:kontakt@zamakowany.pl)
 
-Feel free to reach out if you have ideas for collaboration, want to discuss tech, or just say hi! 😊  
+Feel free to reach out if you have ideas for collaboration, want to discuss tech, or just say hi! 
 
 ---  
