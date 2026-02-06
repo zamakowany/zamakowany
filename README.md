@@ -1,23 +1,17 @@
-# Hi there, I'm zamakowany 👋  
+# Zamakowany
 
-I'm a passionate **full-stack web developer** programming as a hobby and exploring the vast world of technology. My next goal? To dive deep into **cybersecurity** and become a skilled pentester. 💻🔒  
+Versatile developer merging frontend craft with homelabbing and automation.
+I build sleek interfaces while scaling backend logic and custom scripts behind the scenes.
 
-## 🛠️ Tech Stack
-- **Languages:** JavaScript  
-- **Front-End:** React (with Vite), Tailwind
-- **Back-End:** ElysiaJs, SQLite/PocketBase
-- **Tools:** Vite, Figma, Vs Code/NeoVim
+## What I work with
 
-I'm constantly experimenting with new tools and frameworks to expand my skill set.  
+- **Frontend** — React, TypeScript, Tailwind CSS
+- **Systems** — C++, Bash
+- **Infra** — Docker, Arch Linux, Nginx
+- **Editor** — Neovim
+  
+## Links
 
-## 🌱 What I'm Working On
-While coding is my playground, I'm on a journey to sharpen my skills in **cybersecurity**, aiming to merge programming expertise with pentesting knowledge.  
-
-## 📬 Let's Connect!
-- GitHub: [zamakowany](https://github.com/zamakowany)
-- Discord: [zamakowany](https://discord.com/users/781591050418388993)
-- Email: [kontakt@zamakowany.pl](mailto:kontakt@zamakowany.pl)
-
-Feel free to reach out if you have ideas for collaboration, want to discuss tech, or just say hi! 
-
----  
+- 🌐 [zamakowany.pl](https://zamakowany.pl)
+- 💬 [Discord](https://discord.zamakowany.pl/)
+- 📧 kontakt@zamakowany.pl
